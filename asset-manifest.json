@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/persistenent_digital_assignment/static/css/main.cf890fdb.css",
+    "main.js": "/persistenent_digital_assignment/static/js/main.d3eb480c.js",
+    "index.html": "/persistenent_digital_assignment/index.html",
+    "main.cf890fdb.css.map": "/persistenent_digital_assignment/static/css/main.cf890fdb.css.map",
+    "main.d3eb480c.js.map": "/persistenent_digital_assignment/static/js/main.d3eb480c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.cf890fdb.css",
+    "static/js/main.d3eb480c.js"
+  ]
+}
